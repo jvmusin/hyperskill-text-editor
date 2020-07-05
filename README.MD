@@ -1,0 +1,1 @@
+This is the implementation of the last step of project [Text Editor](https://hyperskill.org/projects/38?track=1) from Hyperskill platform.
