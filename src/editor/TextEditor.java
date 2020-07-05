@@ -167,7 +167,7 @@ public class TextEditor extends JFrame {
         menuNextMatch.setName("MenuNextMatch");
         menuNextMatch.addActionListener(e -> nextMatchButton.doClick());
 
-        JMenuItem menuUseRegExp = new JMenuItem("User regular expressions");
+        JMenuItem menuUseRegExp = new JMenuItem("Use regular expressions");
         menuUseRegExp.setName("MenuUseRegExp");
         menuUseRegExp.addActionListener(e -> useRegExCheckbox.doClick());
 
